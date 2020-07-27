@@ -1,5 +1,6 @@
 server:
   port: 9999  
+spring:  
   datasource:
     username: root
     password: root
